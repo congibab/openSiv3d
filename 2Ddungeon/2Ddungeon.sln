@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2Ddungeon", "2Ddungeon\2Ddungeon.vcxproj", "{5217C22D-14D8-4E85-87F0-E01A5A43515E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5217C22D-14D8-4E85-87F0-E01A5A43515E}.Debug|x64.ActiveCfg = Debug|x64
+		{5217C22D-14D8-4E85-87F0-E01A5A43515E}.Debug|x64.Build.0 = Debug|x64
+		{5217C22D-14D8-4E85-87F0-E01A5A43515E}.Release|x64.ActiveCfg = Release|x64
+		{5217C22D-14D8-4E85-87F0-E01A5A43515E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E2F7C8-5774-4A20-884F-236EE072E5F2}
+	EndGlobalSection
+EndGlobal
